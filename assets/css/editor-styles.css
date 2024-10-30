@@ -1,0 +1,93 @@
+.cp-ea-icons{
+    background-image: url(../img/layouts.png) !important;
+    background-repeat: no-repeat;
+    background-size: auto !important;
+    margin-top: -5px !important;
+    width: 60px !important;
+    height: 45px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cp-ea-author {
+    background-position: -60px -270px !important;
+}
+
+.cp-ea-sl1 {
+    background-position: -60px 0 !important;
+}
+
+.cp-ea-sl2 {
+    background-position: 0 0 !important;
+}
+
+.cp-blog-grid {
+    background-position: 0 -90px !important
+}
+
+.cp-blog-module1 {
+    background-position: 0 -225px !important;
+}
+
+.cp-blog-module2 {
+    background-position: -60px -180px !important;
+}
+
+.cp-blog-module3 {
+    background-position: 0 -270px !important;
+}
+
+.cp-blog-post {
+    background-position: -60px -225px !important;
+}
+.cp-blog-slider {
+    background-position: 0 -45px !important;
+}
+.cp-testimonials {
+    background-position: 0px -180px !important;
+}
+.cp-ea-icons.cp-team {
+    background-position: 0 -405px !important;
+}
+.cp-ea-icons.cp-services {
+    background-position: -60px -405px !important;
+}
+.cp-site-logo {
+    background-position: -60px -315px !important;
+}
+.cp-navbar {
+    background-position: 0 -360px !important;
+}
+.cp-ytvideosl{
+    background-position: 0 -315px !important;
+}
+.cp-header-icon{
+    background-position: -60px -360px !important;
+}
+.cp-offcanvas{
+    background-position: 0 -450px !important;
+}
+
+.cp-price-list{
+    background-position: -60px -450px !important;
+}
+.cp-woo-product-grid{
+    background-position: -60px -405px !important;
+}
+
+.cp-woo-categories{
+    background-position: 0 -540px !important;
+}
+.cp-woo-category-counter{
+    background-position: 0px -583px !important;   
+}
+.cp-woo-product-grid{
+    background-position: -60px -495px !important;   
+}
+.cp-woo-product-list{
+    background-position: 0 -495px !important;      
+}
+.cp-woo-product-search{
+    background-position: -60px -538px !important;      
+}
